@@ -16,7 +16,7 @@
 <li>Filament Type: PLA</li>
 <li>Infill: 0.25</li>
 <li>Layer Height: 0.1 mm</li>
-<li>Rotate the mask image so that the front lies plat on the printing bed</li>
+<li>Rotate the mask image so that the front lies flat on the printing bed</li>
 <li>No supports</li>
 </ul>
 <p>You can find the 3D Simplify factory file modified with the above settings <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/MontanaMasks.factory">here</a></p>
