@@ -29,6 +29,7 @@
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_95_PLA_R.x3g">Medium Mask Printed using Right Extruder</a><br>
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_L.x3g">Small Mask Printed using Left Extruder</a><br>
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_R.x3g">Small Mask Printed using Right Extruder</a></p>
+<p>Each mask and filter holder takes about 4 hours to print, and I’m currently printing 3-4 a day.</p>
 <h1 id="installing-the-filtration-material">Installing the Filtration Material</h1>
 <p>Most suppliers of N95 filtration material such as <a href="https://www.flowmarkhightech.com/">this one</a> are out of stock. I’m using blue shop towels for testing, and I also ordered some <a href="https://www.filtrete.com/3M/en_US/filtrete/about-us/the-right-filter-for-you/">3M Filtrete</a> furnace filters that are designed to filter out bacteria and viruses, and I’m hoping the material from these filters can be used in the masks. Each of these furnace filters should provide enough filtration material for ~75 mask replacement filters. They won’t arrive for another week, so I’ll update this when they come in.Cut the filtration material to the following size to use with the mask:</p>
 <ul>
