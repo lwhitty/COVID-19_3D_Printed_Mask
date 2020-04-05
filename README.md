@@ -20,7 +20,6 @@
 <li>No supports</li>
 </ul>
 <p>You can find the 3D Simplify factory file modified with the above settings <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks.factory">here</a></p>
-<p>StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible <strong>offline!</strong></p>
 <h1 id="ready-to-print-x3g-files">Ready to Print x3g Files</h1>
 <p>If you have a Makerbot dual extruder or compatible printer, I’ve created ready to print x3g files that include both the mask and the filter holder. I also scaled down the original size mask (large - 100%) to a medium size (95%) and small size (90%). You can place the appropriate x3g file directly on an SD card and print - no computer required:</p>
 <p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_100_PLA_L.x3g">Large Mask printed using Left Extruder</a><br>
