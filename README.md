@@ -4,8 +4,8 @@
 ---
 
 <h1 id="covid-19-montana-3d-printed-mask">COVID-19 Montana 3D Printed Mask</h1>
-<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/wearing_mask.jpg" alt="Me Wearing Mask"><br>
-The COVID-19 pandemic has caused a worldwide shortage of personal protective equipment (PPE) for hospital staff and the general public. I’ve been experimenting with printing different 3D mask designs, but most of them had to be custom formed after printing or just didn’t work. Then, I found the following short video by Dr. Dusty Richardson, MD on the Montana Mask:</p>
+<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/wearing_mask.jpg" alt="Me Wearing Mask"></p>
+<p>The COVID-19 pandemic has caused a worldwide shortage of personal protective equipment (PPE) for hospital staff and the general public. I’ve been experimenting with printing different 3D mask designs, but most of them had to be custom formed after printing or just didn’t work. Then, I found the following short video by Dr. Dusty Richardson, MD on the Montana Mask:</p>
 <p><a href="https://www.youtube.com/watch?v=nArDE44miz0">Montana Mask Walkthrough</a></p>
 <p>That video let me to this website, which contains additional info about the masks and how to make them:</p>
 <p><a href="https://www.billingsclinic.com/foundation/3d-printed-surgical-mask/">Billings Clinic 3D Printed Surgical Mask</a></p>
