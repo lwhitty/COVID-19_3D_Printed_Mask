@@ -41,5 +41,5 @@
 <p>Elastic material is hard to come by. I used a woman’s headband for my test masks. Still looking for a better solution. I ordered some narrow latex surgical tubing which will arrive in a week, and will test that when it comes in.</p>
 <h1 id="testing-and-improving-the-seal">Testing and Improving the Seal</h1>
 <p>You can test the seal by removing the filter, putting the mask on, sealing the opening by holding your hand over it, and trying to breath in and out to see how much air enters or escapes. With the large mask, I have a pretty good seal. For men, shaving will help a lot with the seal. I tried putting some silicon weather striping along the edge of the mask, and it might slightly improve the seal, but it’s hard to tell and it doesn’t stay in place. I think it might be too much to expect a 100% seal with this mask. When the small diameter latex surgical tubing (mentioned above) arrives. I’ll try taking a piece, slit it down the length of the tube, and will place it over the mask edge to see if the seal improves.</p>
-<p><img src="small_and_large_mask.jpg" alt="Small and Large Masks"></p>
+<p><img src="small_and_large_masks.jpg" alt="Small and Large Masks"></p>
 
