@@ -4,7 +4,7 @@
 ---
 
 <h1 id="covid-19-montana-3d-printed-mask">COVID-19 Montana 3D Printed Mask</h1>
-<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/wearing_mask.jpg" alt="Me Wearing Mask"></p>
+<p><img src="https://drive.google.com/open?id=18lJZobBygxarX1yW-ej0TVoZOIxRz92E" alt="Me Wearing Mask"></p>
 <p>The COVID-19 pandemic has caused a worldwide shortage of personal protective equipment (PPE) for hospital staff and the general public. I’ve been experimenting with printing different 3D mask designs, but most of them had to be custom formed after printing or just didn’t work. Then, I found the following short video by Dr. Dusty Richardson, MD on the Montana Mask:</p>
 <p><a href="https://www.youtube.com/watch?v=nArDE44miz0">Montana Mask Walkthrough</a></p>
 <p>That video let me to this website, which contains additional info about the masks and how to make them:</p>
@@ -41,5 +41,5 @@
 <p>Elastic material is hard to come by. I used a woman’s headband for my test masks. Still looking for a better solution. I ordered some narrow latex surgical tubing which will arrive in a week, and will test that when it comes in.</p>
 <h1 id="testing-and-improving-the-seal">Testing and Improving the Seal</h1>
 <p>You can test the seal by removing the filter, putting the mask on, sealing the opening by holding your hand over it, and trying to breath in and out to see how much air enters or escapes. With the large mask, I have a pretty good seal. For men, shaving will help a lot with the seal. I tried putting some silicon weather striping along the edge of the mask, and it might slightly improve the seal, but it’s hard to tell and it doesn’t stay in place. I think it might be too much to expect a 100% seal with this mask. When the small diameter latex surgical tubing (mentioned above) arrives. I’ll try taking a piece, slit it down the length of the tube, and will place it over the mask edge to see if the seal improves.</p>
-<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/small_and_large_masks.jpg" alt="Small and Large Masks"></p>
+<p><img src="https://drive.google.com/open?id=1h7PxAj3EWFJpJPueTAbqChczs256sh_c" alt="Small and Large Masks"></p>
 
