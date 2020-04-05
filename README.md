@@ -21,14 +21,14 @@
 </ul>
 <p>You can find the 3D Simplify factory file modified with the above settings <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks.factory">here</a></p>
 <h1 id="ready-to-print-x3g-files">Ready to Print x3g Files</h1>
-<p>If you have a Makerbot dual extruder or compatible printer, I’ve created ready to print x3g files that include both the mask and the filter holder. I also scaled down the original size mask (large - 100%) to a medium size (95%) and small size (90%). You can place the appropriate x3g file directly on an SD card and print - no computer required:</p>
-<p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_100_PLA_L.x3g">Large Mask printed using Left Extruder</a><br>
-<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_100_PLA_R.x3g">Large Mask Printed using Right Extruder</a><br>
-<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_95_PLA_L.x3g">Medium Mask Printed using Left Extruder</a><br>
-<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_95_PLA_R.x3g">Medium Mask Printed using Right Extruder</a><br>
-<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_L.x3g">Small Mask Printed using Left Extruder</a><br>
-<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_R.x3g">Small Mask Printed using Right Extruder</a></p>
-<p>Each mask and filter holder takes about 4 hours to print, and I’m currently printing 3-4 a day.</p>
+<p>If you have a Makerbot dual extruder or compatible printer, I’ve created ready to print x3g files that include both the mask and the filter frame. I also scaled down the original size mask (large - 100%) to a medium size (95%) and small size (90%). You can place the appropriate x3g file directly on an SD card and print - no computer required:</p>
+<p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_100_PLA_L.x3g">Large Mask and Filter Frame printed using Left Extruder</a><br>
+<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_100_PLA_R.x3g">Large Mask and Filter Frame printed using Right Extruder</a><br>
+<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_95_PLA_L.x3g">Medium Mask and Filter Frame printed using Left Extruder</a><br>
+<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_95_PLA_R.x3g">Medium Mask and Filter Frame printed using Right Extruder</a><br>
+<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_L.x3g">Small Mask and Filter Frame printed using Left Extruder</a><br>
+<a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/blob/master/MontanaMasks_90_PLA_R.x3g">Small Mask and Filter Frame printed using Right Extruder</a></p>
+<p>Each mask and filter frame takes about 4 hours to print, and I’m currently printing 3-4 a day.</p>
 <h1 id="installing-the-filtration-material">Installing the Filtration Material</h1>
 <p>Most suppliers of N95 filtration material such as <a href="https://www.flowmarkhightech.com/">this one</a> are out of stock. I’m using blue shop towels for testing, and I also ordered some <a href="https://www.filtrete.com/3M/en_US/filtrete/about-us/the-right-filter-for-you/">3M Filtrete</a> furnace filters that are designed to filter out bacteria and viruses, and I’m hoping the material from these filters can be used in the masks. Each of these furnace filters should provide enough filtration material for ~75 mask replacement filters. They won’t arrive for another week, so I’ll update this when they come in.Cut the filtration material to the following size to use with the mask:</p>
 <ul>
