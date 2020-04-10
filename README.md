@@ -48,7 +48,7 @@ Updated: 2020-04-10</p>
 <li><strong>Small:</strong> 2.5" x 2.5"</li>
 </ul>
 <p>Make sure to mark the airflow direction on the 3M filter before removing the material, and face the tip of the arrow side towards  the inside of the mask.</p>
-<h1 id="installing-the-elastic-straps">Installing the Elastic Straps</h1>
+<h1 id="installing-the-rubber-straps">Installing the Rubber Straps</h1>
 <p>With everyone making cloth masks, traditional elastic materials are hard to come by.  I’m using <a href="https://www.amazon.com/gp/product/B01LYF949F/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1">0.2" natural latex rubber tubing</a>. Cut two lengths 15" long. Cutting on an angle makes it easier to thread the tubing through the eyelets in the mask. Put one on each side, and if you want to wrap the tubing around your ears to hold the mask in place, you’re done. If the mask won’t stay in place, cut another 11" piece of surgical tubing and use it to tie between the existing straps to wrap around your head:</p>
 <h1 id="installing-and-testing-the-seal">Installing and Testing the Seal</h1>
 <p>I used <a href="https://www.lowes.com/pd/M-D-17-ft-x-5-16-in-White-Window-Seal-Rubber-Window-Weatherstrip/1010041">5/16-in White Window Weatherstrip</a> and <a href="https://www.lowes.com/pd/LOCTITE-Precision-Pen-Super-Glue-Gel-4-Gram-Super-Glue-Clear-Multipurpose-Adhesive/1000939724">Loctite Super Glue</a> to make a seal around the edge of the mask. This <a href="https://www.youtube.com/watch?v=UkYnSPlj7AI&amp;list=PLZI0BjypoZ-bdtBwPr9JfbpGa-oSaFYXc&amp;index=4&amp;t=0s">video</a> shows how to install it properly.</p>
