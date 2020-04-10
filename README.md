@@ -32,7 +32,7 @@ Updated: 2020-04-10</p>
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/MontanaMasks_90_PLA_R.x3g">Small Mask and Filter Frame printed using Right Extruder</a></p>
 <p>Each mask and filter frame takes about 4 hours to print, and I’m currently printing 3-4 a day.</p>
 <h1 id="installing-the-filtration-material">Installing the Filtration Material</h1>
-<p>Most suppliers of N95 filtration material such as <a href="https://www.flowmarkhightech.com/">this one</a> are either out of stock or just supplying first responders, which should get preferential treatment. I’m using blue shop towels as well as the filtering material from <a href="https://www.filtrete.com/3M/en_US/filtrete/about-us/the-right-filter-for-you/">3M Filtrete</a> 1500 furnace filters. Here’s a comparison of what common materials filter:</p>
+<p>Most suppliers of N95 filtration material such as <a href="https://www.flowmarkhightech.com/">this one</a> are either out of stock or just supplying first responders, who should get preferential treatment. I’m using blue shop towels as well as the filtering material from <a href="https://www.filtrete.com/3M/en_US/filtrete/about-us/the-right-filter-for-you/">3M Filtrete</a> 1500 furnace filters. Here’s a comparison of what common materials filter:</p>
 <ul>
 <li>N95 masks: 0.1 - 0.3 microns</li>
 <li><strong>Blue shop towels:</strong> 0.3 microns</li>
@@ -40,7 +40,7 @@ Updated: 2020-04-10</p>
 <li>Cloth face mask: 20 microns</li>
 <li>Coffee filter: 20 microns</li>
 </ul>
-<p>While blue shop towels do a good job of filtering small particles, they’re fairly restrictive. The 3M Filtrete material is easy to breathe through even when doubled up. I plan to use the blue shop towel for short trips to the store, and 3M Filtrete material for extended use.</p>
+<p>While blue shop towels do a good job of filtering small particles, they’re fairly restrictive. The 3M Filtrete material is easy to breathe through even when doubled up. I plan to use the blue shop towel for short trips to the store, and 2 layers of 3M Filtrete material for extended use.</p>
 <p>Cut the filtration material to the following size to use with the mask, and use 2 layers:</p>
 <ul>
 <li><strong>Large:</strong> 2.75" x 2.75"</li>
