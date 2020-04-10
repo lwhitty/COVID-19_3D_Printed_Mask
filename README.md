@@ -8,8 +8,9 @@
 Updated: 2020-04-10</p>
 <p>The COVID-19 pandemic has caused a worldwide shortage of personal protective equipment (PPE) for hospital staff and the general public. I’ve been experimenting with printing different 3D mask designs, but most of them had to be custom formed after printing or just didn’t work. Then, I found the following short video by Dr. Dusty Richardson, MD on the Montana Mask:</p>
 <p><a href="https://www.youtube.com/watch?v=nArDE44miz0">Montana Mask Walkthrough</a></p>
-<p>That video let me to this website, which contains additional info about the masks and how to make them:</p>
+<p>That video led me to these websites, which contains additional info about the masks and how to make them:</p>
 <p><a href="https://www.billingsclinic.com/foundation/3d-printed-surgical-mask/">Billings Clinic 3D Printed Surgical Mask</a></p>
+<p><a href="https://www.makethemasks.com/">Make The Masks</a></p>
 <p>The URLs on that website to download the STL files required for 3D printing didn’t resolve, but I was able to find them elsewhere and they can be downloaded <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/n95-montana-mask.zip">here</a>.</p>
 <h1 id="d-printer-settings">3D Printer Settings</h1>
 <p>I used 3D Simplify and the following settings to print these masks:</p>
