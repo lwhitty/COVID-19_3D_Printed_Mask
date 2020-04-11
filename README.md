@@ -4,7 +4,7 @@
 ---
 
 <h1 id="covid-19-montana-3d-printed-mask">COVID-19 Montana 3D Printed Mask</h1>
-<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/wearing_mask_400px.jpg" alt="Me Wearing Mask"><br>
+<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/Lee_wearing_mask_400px.jpg" alt="Me Wearing Mask"><br>
 Updated: 2020-04-10</p>
 <p>The COVID-19 pandemic has caused a worldwide shortage of personal protective equipment (PPE) for hospital staff and the general public. I’ve been experimenting with printing different 3D mask designs, but most of them had to be custom formed after printing or just didn’t work. Then, I found the following short video by Dr. Dusty Richardson, MD on the Montana Mask:</p>
 <p><a href="https://www.youtube.com/watch?v=nArDE44miz0">Montana Mask Walkthrough</a></p>
@@ -47,11 +47,15 @@ Updated: 2020-04-10</p>
 <li><strong>Medum:</strong> 2.6" x 2.6"</li>
 <li><strong>Small:</strong> 2.5" x 2.5"</li>
 </ul>
-<p>Make sure to mark the airflow direction on the 3M filter before removing the material, and face the tip of the arrow side towards  the inside of the mask.</p>
-<h1 id="installing-the-rubber-straps">Installing the Rubber Straps</h1>
-<p>With everyone making cloth masks, traditional elastic materials are hard to come by.  I’m using <a href="https://www.amazon.com/gp/product/B01LYF949F/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1">0.2" natural latex rubber tubing</a>. Cut two lengths 15" long. Cutting on an angle makes it easier to thread the tubing through the eyelets in the mask. Put one on each side, and if you want to wrap the tubing around your ears to hold the mask in place, you’re done. If the mask won’t stay in place, cut another 11" piece of surgical tubing and use it to tie between the existing straps to wrap around your head:</p>
+<p>Make sure to mark the airflow direction on the 3M filter before removing the material, and face the tip of the arrow side towards  the inside of the mask. Wrap the material around the small square frame and press into place from the inside of the mask.</p>
 <h1 id="installing-and-testing-the-seal">Installing and Testing the Seal</h1>
 <p>I used <a href="https://www.lowes.com/pd/M-D-17-ft-x-5-16-in-White-Window-Seal-Rubber-Window-Weatherstrip/1010041">5/16-in White Window Weatherstrip</a> and <a href="https://www.lowes.com/pd/LOCTITE-Precision-Pen-Super-Glue-Gel-4-Gram-Super-Glue-Clear-Multipurpose-Adhesive/1000939724">Loctite Super Glue</a> to make a seal around the edge of the mask. This <a href="https://www.youtube.com/watch?v=UkYnSPlj7AI&amp;list=PLZI0BjypoZ-bdtBwPr9JfbpGa-oSaFYXc&amp;index=4&amp;t=0s">video</a> shows how to install it properly.</p>
-<p>You can test the seal by putting the mask on, sealing the opening by holding your hand over it, and trying to breath in and out to see how much air enters or escapes. With the large mask, I had a pretty good seal with no weather stripping, and a complete seal with weather stripping. For men, shaving will help a lot.</p>
+<p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/blue_mask_stripping_frame_400px.jpg"></a></p>
+<p>You can test the seal by putting the mask on, sealing the opening by holding your hand over it, and trying to breath in and out to see how much air enters or escapes. With the large mask, I had a pretty good seal with no weather stripping, and a complete seal with weather stripping. For men, shaving will help.</p>
+<h1 id="installing-the-rubber-straps">Installing the Rubber Straps</h1>
+<p>With everyone making cloth masks, traditional elastic materials are hard to come by.  I’m using <a href="https://www.amazon.com/gp/product/B01LYF949F/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&amp;psc=1">0.2" natural latex rubber tubing</a>. Cut two lengths 15" long. Cutting on an angle makes it easier to thread the tubing through the eyelets in the mask. Put one on each side, and if you want to wrap the tubing around your ears to hold the mask in place, you’re done:</p>
+<p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/blue_mask_stripping_straps_1_400px.jpg"></a></p>
+<p>Adjust the straps by pulling the slack through the eyelet. If the mask won’t stay in place, cut another 11" piece of surgical tubing and use it to tie between the existing straps to wrap around your head:</p>
+<p><a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/blue_mask_stripping_straps_2_400px.jpg"></a></p>
 <p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/S_M_L_Montana_Masks_400px.jpg" alt="Small, Medium, and Large Masks"></p>
 
