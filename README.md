@@ -57,5 +57,4 @@ Updated: 2020-04-11</p>
 <p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/blue_mask_stripping_straps_1_400px.jpg" alt=""></p>
 <p>Adjust the straps by pulling the slack through the eyelet. If the mask won’t stay in place, cut another 11" piece of surgical tubing and use it to tie between the existing straps to wrap around your head:</p>
 <p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/blue_mask_stripping_straps_2_400px.jpg" alt=""></p>
-<p><img src="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/S_M_L_Montana_Masks_400px.jpg" alt="Small, Medium, and Large Masks"></p>
 
