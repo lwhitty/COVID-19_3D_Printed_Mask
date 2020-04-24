@@ -31,7 +31,7 @@ Updated: 2020-04-11</p>
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/MontanaMasks_90_PLA_L.x3g">Small Mask and Filter Frame printed using Left Extruder</a><br>
 <a href="https://github.com/lwhitty/COVID-19_Montana_3D_Printed_Mask/raw/master/MontanaMasks_90_PLA_R.x3g">Small Mask and Filter Frame printed using Right Extruder</a></p>
 <p>Each mask and filter frame takes about 4 hours to print, and I’m currently printing 3-4 a day.</p>
-<h1 id="installing-the-filtration-material">Installing the Filtration Material</h1>
+<h1 id="installing-and-replacing-the-filtration-material">Installing and Replacing the Filtration Material</h1>
 <p>Most suppliers of N95 filtration material such as <a href="https://www.flowmarkhightech.com/">this one</a> are either out of stock or just supplying first responders, who should get preferential treatment. I’m using blue shop towels as well as the filtering material from <a href="https://www.filtrete.com/3M/en_US/filtrete/about-us/the-right-filter-for-you/">3M Filtrete</a> 1500 furnace filters. Here’s a comparison of what common materials filter:</p>
 <ul>
 <li>N95 masks: 0.1 - 0.3 microns</li>
